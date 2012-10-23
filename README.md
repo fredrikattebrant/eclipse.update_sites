@@ -1,4 +1,4 @@
 eclipse.update_sites
 ====================
 
-An Eclipse Update Site (p2 composite repository) with goodies
+An Eclipse Update Site collection (p2 composite repository) with goodies
